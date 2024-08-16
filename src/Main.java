@@ -13,5 +13,7 @@ public class Main {
         }
 
         System.out.println("hello world");
+        System.out.println("깃허브 연동 성공");
+
     }
 }
